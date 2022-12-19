@@ -1,1 +1,1 @@
-alert(1);
+alert(cordova.file.externalDataDirectory);
