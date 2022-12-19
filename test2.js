@@ -1,1 +1,0 @@
-alert(cordova.file.externalDataDirectory);
